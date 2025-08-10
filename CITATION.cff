@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it."
+title: "Embryo Transfer Outcome Prediction (Fresh vs Frozen)"
+authors:
+  - family-names: Kim
+    given-names: Kyulin
+version: "0.1.0"
+license: "MIT"
