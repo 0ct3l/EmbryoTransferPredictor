@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+
 # Embryo Transfer Outcome Prediction (Fresh vs Frozen)
 
 > **Research prototype — Not for clinical use**
