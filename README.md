@@ -11,6 +11,11 @@ The model combines a **rule-based risk engine** with a neural network trained on
 
 ---
 
+## References
+Wei, D., Zhang, Y., Zhao, J., et al. (2025). Fresh versus frozen embryo transfer in women with low prognosis: a multicentre, randomised controlled trial. *The Lancet*, 405(10335), 289–299. https://doi.org/10.1016/S0140-6736(24)02703-2 
+
+---
+
 ## Trial Summary
 
 | Outcome | Fresh | Frozen | RR (95% CI) | p-value |
