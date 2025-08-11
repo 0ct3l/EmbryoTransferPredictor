@@ -1,3 +1,15 @@
+"""
+Embryo Transfer Risk Prediction Model
+-------------------------------------
+This implementation is based on:
+
+Wei, D., Zhang, Y., Zhao, J., et al. (2025).
+Fresh versus frozen embryo transfer in women with low prognosis: 
+a multicentre, randomised controlled trial.
+The Lancet, 405(10335), 289–299.
+https://doi.org/10.1136/bmj-2024-081474 
+"""
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
