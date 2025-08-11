@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.optim as optim
-import torch.nn.functional as F  # Fixed: Moved to top of file
+import torch.nn.functional as F  
 import numpy as np
 import matplotlib.pyplot as plt
 from typing import Dict, Tuple, List
